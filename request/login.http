@@ -1,0 +1,2 @@
+POST http://localhost:8081/api/wanaka/accounts/login HTTP/1.1
+authorization: Basic bXRpcmFvOjMxNzJBcHBM

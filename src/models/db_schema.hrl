@@ -1,0 +1,6 @@
+-record(activity, {id, date, activity, user}).
+-record(message, {id, date, type, content, user}).
+-record(profile, {id, lastname, firstname, email, phone, phonecell, gender, address, city}).
+-record(status, {id, date, status, user}).
+-record(token, {token, user}).
+-record(tenant, {user, password, created, status, id}).

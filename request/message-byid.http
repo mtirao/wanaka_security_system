@@ -1,0 +1,3 @@
+GET http://localhost:3000/api/wanaka/message/f03e7e8a-ce15-4c02-a47a-7681e4efb883 HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTc1MTU4NTksInVzZXIiOiIzYmQyMzlkNC0wM2QxLTQ3Y2UtYWUyMC1kYjE1YjIzOTgwMTEifQ.Q3BMtIRfcEQcVf9SBi7IlYSRBPR3SeIggN_xssH18W4

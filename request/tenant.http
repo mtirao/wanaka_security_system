@@ -1,0 +1,7 @@
+POST http://localhost:8081/api/wanaka/accounts/tenant HTTP/1.1
+authorization: Basic YWRtaW46c3VwZXJzZWNyZXRhZG1pbnBhc3N3b3Jk
+
+{
+  "user": "mtirao",
+  "password": "3172AppL"
+}

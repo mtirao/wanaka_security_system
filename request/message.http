@@ -1,0 +1,8 @@
+POST http://localhost:8081/api/wanaka/message HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjIxMTA2NTEsInN1YiI6ImQ5NDYyNTIwLTY5ZmQtNDg3ZS04YTcxLTY0OGQ3MGViOTAwNCJ9.-spf9htBoQ40DXcf-j3wjlScBvG62ru_Hyirx-o69s8
+
+{
+  "content": "Something happened",   
+  "type": "Alert"
+}
